@@ -28,7 +28,7 @@ const menuConfig = {
         },
         {
             id: "menu-2",
-            title: "Blogs",
+            title: "Hobbies",
             path: "/blogs",
             icon: <BsMedium size={35}/>,
             className: "nav-text"
@@ -37,6 +37,13 @@ const menuConfig = {
             id: "menu-3",
             title: "Skills",
             path: "/skills",
+            icon: <AiFillCode size={35}/>,
+            className: "nav-text"
+        },
+        {
+            id: "menu-4",
+            title: "Education",
+            path: "/education",
             icon: <AiFillCode size={35}/>,
             className: "nav-text"
         }

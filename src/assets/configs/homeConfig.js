@@ -8,14 +8,11 @@ const homeConfig = {
 
     greeting:
         <h1 className="heading">
-            Hi! I'm <strong className="main-name"> Rodrigo Arenas</strong>
+            Hi! I'm <strong className="main-name"> Aman Kumar</strong>
         </h1>,
     titles: [
         "Data Scientist",
-        "Machine Learning Specialist",
-        "Open Source Contributor",
-        "Backend Developer",
-        "Colombian"
+        "Fullstack Developer"
     ],
     about: {
         start: "I've been working for over six years on data science projects. " +
@@ -24,7 +21,7 @@ const homeConfig = {
         exit: "I'm fluent at Python, SQL databases, BI tools, and more, " +
             "with a deep interest in machine learning."
     },
-    workTimeline: [
+    /*workTimeline: [
         {
             id: "work-3",
             title: "Sr Data Scientist",
@@ -54,7 +51,7 @@ const homeConfig = {
             date: "2018-2019",
             icon: <GiCommercialAirplane/>,
             tags: ["ml", "mssql", "python", "docker", "pbi", "azure"]
-        },
+        }, 
         {
             id: "work-0",
             title: "BI Analyst",
@@ -64,7 +61,7 @@ const homeConfig = {
             icon: <BsClipboardData/>,
             tags: ["python", "mssql", "pbi", "excel"]
         }
-    ]
+    ]*/
 }
 
 

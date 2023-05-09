@@ -7,14 +7,14 @@ const footerConfig = {
     icons: [
         {
             id: "footer-0",
-            url: "https://github.com/rodrigo-arenas",
+            url: "https://github.com/Ak-07",
             className: "social-icon",
             target: "_blank",
             icon: <AiFillGithub size={50}/>
         },
         {
             id: "footer-1",
-            url: "https://linkedin.com/in/rodrigo-arenas-gomez",
+            url: "https://linkedin.com/in/amankumarbbs",
             className: "social-icon",
             target: "_blank",
             icon: <FaLinkedinIn size={50}/>
